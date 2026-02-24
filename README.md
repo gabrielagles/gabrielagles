@@ -1,18 +1,19 @@
 <h1 align="center">👋 Olá, eu sou o Gabriel Agles</h1>
-<h3 align="center">Desenvolvedor com foco em Back-End buscando me especializar em Full-Stack | Formado em ADS | Java Developer</h3>
+<h3 align="center">Desenvolvedor com foco em Back-End | Em evolução para Full-Stack | Java Developer</h3>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Formado emAnálise e Desenvolvimento de Sistemas (Universidade Presbiteriana Mackenzie)  
-💼 Em busca de uma oportunidade como Júnior | Trainee | Assistente
+🎓 Formado em Análise e Desenvolvimento de Sistemas – Universidade Presbiteriana Mackenzie  
+💼 Buscando oportunidade como Desenvolvedor Júnior | Trainee  
 📍 São Paulo – Brasil  
 
-Tenho experiência com manutenção e evolução de sistemas legados em ambiente hospitalar, atuando com Java, JPA, JBoss, JasperReports e PostgreSQL.  
-Minha base em suporte técnico me proporcionou forte capacidade de análise, resolução de problemas e visão centrada no usuário.
+Atuei como estagiário de desenvolvimento em Sistema de Gestão Hospitalar, trabalhando com manutenção e evolução de sistemas legados utilizando Java, JPA, JBoss, JasperReports e PostgreSQL.
 
-🎯 Meu objetivo é evoluir tanto como Desenvolvedor Back-End ou Front-End, criando aplicações intuitivas, performáticas e bem estruturadas.
+Possuo experiência prévia em suporte técnico, atuando com troubleshooting, análise de incidentes e atendimento a usuários, o que fortaleceu minha capacidade analítica, comunicação e visão centrada no usuário.
+
+🎯 Meu objetivo é evoluir como Desenvolvedor Back-End e expandir minhas habilidades para me tornar Full-Stack, criando aplicações performáticas, escaláveis e bem estruturadas.
 
 ---
 
@@ -52,6 +53,21 @@ Minha base em suporte técnico me proporcionou forte capacidade de análise, res
 
 ---
 
+## 💼 Experiência Profissional
+
+**Estagiário de Suporte Técnico – Infraestrutura e Help Desk**
+
+Atuação na instalação, configuração e manutenção de computadores, impressoras e periféricos em ambiente corporativo, garantindo a continuidade e o correto funcionamento dos sistemas e equipamentos.
+
+**Principais atividades:**
+
+- Atendimento e resolução de chamados de Help Desk
+- Suporte técnico a usuários finais (hardware, software e rede)
+- Diagnóstico e troubleshooting de falhas em estações de trabalho
+- Configuração de VPN, rede e endereçamento IP
+- Apoio na manutenção da infraestrutura de TI
+- Garantia de cumprimento de SLA e continuidade operacional
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -74,8 +90,3 @@ Minha base em suporte técnico me proporcionou forte capacidade de análise, res
 💼 LinkedIn: www.linkedin.com/in/gabriel-agles-gomes  
 🐙 GitHub: github.com/gabrielagles  
 
----
-
-✨ Sempre aprendendo  
-📚 Focado em evolução constante  
-🚀 Aberto a oportunidades
