@@ -1,27 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Agles
-=====================================================================================================================================
+<h1 align="center">👋 Olá, eu sou o Gabriel Agles</h1>
+<h3 align="center">Desenvolvedor com foco em Back-End buscando me especializar em Full-Stack | Formado em ADS | Java Developer</h3>
 
-Web Developer
--------------
+---
 
-I am a dedicated and ambitious IT professional currently pursuing a degree in Analysis and Systems Development at Faculdade Presbiteriana Mackenzie. With hands-on experience as an IT Support Intern at PRODAM, I have honed my skills in technical troubleshooting, customer support, and network administration. My goal is to transition into front-end development, where I can merge my technical expertise with a passion for creating intuitive and user-centered web solutions. I am eager to bring my problem-solving abilities and commitment to quality into a dynamic development team, contributing to innovative projects that enhance the digital experience.
+## 👨‍💻 Sobre mim
 
-* 🌍  I'm based in São Paulo | Brazil
-* ✉️  You can contact me at [gabriel.aglesss@gmail.com](mailto:gabriel.aglesss@gmail.com)
+🎓 Formado emAnálise e Desenvolvimento de Sistemas (Universidade Presbiteriana Mackenzie)  
+💼 Em busca de uma oportunidade como Júnior | Trainee | Assistente
+📍 São Paulo – Brasil  
 
-### Skills
+Tenho experiência com manutenção e evolução de sistemas legados em ambiente hospitalar, atuando com Java, JPA, JBoss, JasperReports e PostgreSQL.  
+Minha base em suporte técnico me proporcionou forte capacidade de análise, resolução de problemas e visão centrada no usuário.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+🎯 Meu objetivo é evoluir tanto como Desenvolvedor Back-End ou Front-End, criando aplicações intuitivas, performáticas e bem estruturadas.
+
+---
+
+## 🚀 Tecnologias
+
+### 💻 Front-End
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
-### Socials
+### ⚙️ Back-End
+<p>
+<img src="https://skillicons.dev/icons?i=java,nodejs" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/gabrielagles" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gabriel-agles-gomes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+### 🗄 Banco de Dados
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-<b>My GitHub Stats</b>
+### 🛠 Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<a href="http://www.github.com/gabrielagles"><img src="https://github-readme-stats.vercel.app/api?username=gabrielagles&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielagles's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/gabrielagles"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielagles&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 💼 Experiência Profissional
+
+**Estagiário de Desenvolvimento – Sistema de Gestão Hospitalar (SGH)**  
+
+- Manutenção e melhorias em sistemas legados utilizando Java 6  
+- Desenvolvimento e ajustes de relatórios com JasperReports / iReport  
+- Atuação com JPA e JBoss 5.1  
+- Correção de bugs e suporte em ambiente de produção  
+- Participação em sistema crítico da área hospitalar  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielagles&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielagles&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielagles&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌎 Contato
+
+📧 Email: gabriel.aglesss@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/gabriel-agles-gomes  
+🐙 GitHub: github.com/gabrielagles  
+
+---
+
+✨ Sempre aprendendo  
+📚 Focado em evolução constante  
+🚀 Aberto a oportunidades
