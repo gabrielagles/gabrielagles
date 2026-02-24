@@ -41,7 +41,7 @@ Possuo experiência prévia em suporte técnico, atuando com troubleshooting, an
 
 ### 🛠 Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
