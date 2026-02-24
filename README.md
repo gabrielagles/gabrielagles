@@ -26,12 +26,12 @@ Possuo experiência prévia em suporte técnico, atuando com troubleshooting, an
 
 ### ⚙️ Back-End
 <p>
-<img src="https://skillicons.dev/icons?i=java,c#" />
+<img src="https://skillicons.dev/icons?i=java, c#" />
 </p>
 
 ### 🗄 Banco de Dados
 <p>
-<img src="https://skillicons.dev/icons?i=mysql, sql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🗄 AWS
@@ -41,7 +41,7 @@ Possuo experiência prévia em suporte técnico, atuando com troubleshooting, an
 
 ### 🛠 Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode, postgresql" />
 </p>
 
 ---
