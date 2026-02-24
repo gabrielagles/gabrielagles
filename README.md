@@ -31,7 +31,7 @@ Possuo experiência prévia em suporte técnico, atuando com troubleshooting, an
 
 ### 🗄 Banco de Dados
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres, sql" />
 </p>
 
 ### ☁️ Cloud
