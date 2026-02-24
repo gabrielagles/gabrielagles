@@ -75,8 +75,13 @@ Atuação na instalação, configuração e manutenção de computadores, impres
   
 ## 📊 Estatísticas do GitHub
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielagles&theme=tokyonight&hide_border=true" /> </p>
-![Snake Animation](https://raw.githubusercontent.com/gabrielagles/gabrielagles/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielagles&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrielagles/gabrielagles/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
