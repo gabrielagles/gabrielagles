@@ -26,22 +26,22 @@ Possuo experiência prévia em suporte técnico, atuando com troubleshooting, an
 
 ### ⚙️ Back-End
 <p>
-<img src="https://skillicons.dev/icons?i=java, C#" />
+<img src="https://skillicons.dev/icons?i=java,cs,nodejs" />
 </p>
 
 ### 🗄 Banco de Dados
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-### 🗄 AWS
+### ☁️ Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ### 🛠 Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode, postgresql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
