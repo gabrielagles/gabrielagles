@@ -41,7 +41,7 @@ Possuo experiência prévia em suporte técnico, atuando com troubleshooting, an
 
 ### 🛠 Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -76,6 +76,7 @@ Atuação na instalação, configuração e manutenção de computadores, impres
 ## 📊 Estatísticas do GitHub
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielagles&theme=tokyonight&hide_border=true" /> </p>
+![snake gif](https://github.com/gabrielagles/gabrielagles/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
