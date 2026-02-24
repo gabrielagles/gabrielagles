@@ -26,7 +26,7 @@ Possuo experiência prévia em suporte técnico, atuando com troubleshooting, an
 
 ### ⚙️ Back-End
 <p>
-<img src="https://skillicons.dev/icons?i=java, c#" />
+<img src="https://skillicons.dev/icons?i=java, C#" />
 </p>
 
 ### 🗄 Banco de Dados
